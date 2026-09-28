@@ -1,0 +1,876 @@
+career_id,career,skill,type,importance,demand_pct,hot,in_demand
+software-developer,Software Developer,Java,technical,100,41.8,1,1
+software-developer,Software Developer,Python,technical,100,37.6,1,1
+software-developer,Software Developer,SQL,technical,96,34.4,1,1
+software-developer,Software Developer,JavaScript,technical,95,33.3,1,1
+software-developer,Software Developer,AWS,technical,92,31.3,1,1
+software-developer,Software Developer,C++,technical,78,22.5,1,1
+software-developer,Software Developer,Azure,technical,77,21.7,1,1
+software-developer,Software Developer,React,technical,76,21.2,1,1
+software-developer,Software Developer,C#,technical,74,19.9,1,1
+software-developer,Software Developer,Kubernetes,technical,70,17.4,1,1
+software-developer,Software Developer,Docker,technical,70,17.3,1,1
+software-developer,Software Developer,Git,technical,68,16.3,1,1
+software-developer,Software Developer,TypeScript,technical,67,15.5,1,1
+software-developer,Software Developer,Angular,technical,65,14.3,1,1
+software-developer,Software Developer,Programming,core,75,,0,0
+software-developer,Software Developer,Critical Thinking,core,72,,0,0
+software-developer,Software Developer,Judgment and Decision Making,core,66,,0,0
+software-developer,Software Developer,Systems Analysis,core,62,,0,0
+software-developer,Software Developer,Active Learning,core,62,,0,0
+software-developer,Software Developer,Reading Comprehension,core,62,,0,0
+software-developer,Software Developer,Active Listening,core,60,,0,0
+software-developer,Software Developer,Complex Problem Solving,core,60,,0,0
+software-developer,Software Developer,Computers and Electronics,knowledge,94,,0,0
+software-developer,Software Developer,Mathematics,knowledge,64,,0,0
+software-developer,Software Developer,Customer and Personal Service,knowledge,64,,0,0
+software-developer,Software Developer,English Language,knowledge,57,,0,0
+software-developer,Software Developer,Education and Training,knowledge,46,,0,0
+software-developer,Software Developer,Engineering and Technology,knowledge,45,,0,0
+data-scientist,Data Scientist,Python,technical,100,78.5,1,1
+data-scientist,Data Scientist,SQL,technical,80,44.2,1,1
+data-scientist,Data Scientist,R,technical,66,27.5,1,1
+data-scientist,Data Scientist,AWS,technical,63,24.7,1,1
+data-scientist,Data Scientist,PyTorch,technical,63,23.8,1,1
+data-scientist,Data Scientist,TensorFlow,technical,61,21.3,1,1
+data-scientist,Data Scientist,Spark,technical,59,18.9,1,1
+data-scientist,Data Scientist,Azure,technical,56,15.1,1,1
+data-scientist,Data Scientist,Scala,technical,46,12.8,1,0
+data-scientist,Data Scientist,Java,technical,45,11.9,1,0
+data-scientist,Data Scientist,Tableau,technical,52,11.3,1,1
+data-scientist,Data Scientist,Scikit-learn,technical,52,10.6,0,1
+data-scientist,Data Scientist,SAS,technical,51,10.0,1,1
+data-scientist,Data Scientist,C++,technical,51,9.2,1,1
+data-scientist,Data Scientist,Mathematics,core,84,,0,0
+data-scientist,Data Scientist,Critical Thinking,core,81,,0,0
+data-scientist,Data Scientist,Reading Comprehension,core,72,,0,0
+data-scientist,Data Scientist,Complex Problem Solving,core,69,,0,0
+data-scientist,Data Scientist,Programming,core,69,,0,0
+data-scientist,Data Scientist,Active Learning,core,66,,0,0
+data-scientist,Data Scientist,Speaking,core,66,,0,0
+data-scientist,Data Scientist,Writing,core,62,,0,0
+data-scientist,Data Scientist,Mathematics,knowledge,88,,0,0
+data-scientist,Data Scientist,Computers and Electronics,knowledge,81,,0,0
+data-scientist,Data Scientist,English Language,knowledge,50,,0,0
+data-scientist,Data Scientist,Engineering and Technology,knowledge,47,,0,0
+data-scientist,Data Scientist,Education and Training,knowledge,32,,0,0
+data-scientist,Data Scientist,Communications and Media,knowledge,30,,0,0
+bi-analyst,Data & BI Analyst,SQL,technical,100,64.7,1,1
+bi-analyst,Data & BI Analyst,Python,technical,75,31.9,1,1
+bi-analyst,Data & BI Analyst,Excel,technical,75,31.4,1,1
+bi-analyst,Data & BI Analyst,Tableau,technical,70,27.1,1,1
+bi-analyst,Data & BI Analyst,Power BI,technical,70,26.4,1,1
+bi-analyst,Data & BI Analyst,Data warehouse,technical,47,12.4,0,0
+bi-analyst,Data & BI Analyst,MS Office,technical,55,11.7,1,1
+bi-analyst,Data & BI Analyst,Data modeling,technical,46,11.2,0,0
+bi-analyst,Data & BI Analyst,R,technical,54,10.9,1,1
+bi-analyst,Data & BI Analyst,Azure,technical,52,8.8,1,1
+bi-analyst,Data & BI Analyst,JavaScript,technical,44,8.6,1,0
+bi-analyst,Data & BI Analyst,AWS,technical,51,7.9,1,1
+bi-analyst,Data & BI Analyst,SAS,technical,50,7.4,1,1
+bi-analyst,Data & BI Analyst,C++,technical,42,7.1,1,0
+bi-analyst,Data & BI Analyst,Reading Comprehension,core,75,,0,0
+bi-analyst,Data & BI Analyst,Active Listening,core,72,,0,0
+bi-analyst,Data & BI Analyst,Speaking,core,72,,0,0
+bi-analyst,Data & BI Analyst,Active Learning,core,72,,0,0
+bi-analyst,Data & BI Analyst,Critical Thinking,core,72,,0,0
+bi-analyst,Data & BI Analyst,Writing,core,69,,0,0
+bi-analyst,Data & BI Analyst,Judgment and Decision Making,core,66,,0,0
+bi-analyst,Data & BI Analyst,Mathematics,core,62,,0,0
+bi-analyst,Data & BI Analyst,Computers and Electronics,knowledge,82,,0,0
+bi-analyst,Data & BI Analyst,Mathematics,knowledge,70,,0,0
+bi-analyst,Data & BI Analyst,English Language,knowledge,69,,0,0
+bi-analyst,Data & BI Analyst,Administration and Management,knowledge,54,,0,0
+bi-analyst,Data & BI Analyst,Customer and Personal Service,knowledge,52,,0,0
+bi-analyst,Data & BI Analyst,Economics and Accounting,knowledge,50,,0,0
+web-developer,Web Developer,JavaScript,technical,100,66.5,1,1
+web-developer,Web Developer,SQL,technical,80,37.9,1,1
+web-developer,Web Developer,React,technical,80,37.4,1,1
+web-developer,Web Developer,Python,technical,79,37.0,1,1
+web-developer,Web Developer,C#,technical,76,33.5,1,1
+web-developer,Web Developer,CSS,technical,74,31.7,1,1
+web-developer,Web Developer,C++,technical,63,28.2,1,0
+web-developer,Web Developer,Angular,technical,60,17.2,1,1
+web-developer,Web Developer,TypeScript,technical,59,16.7,1,1
+web-developer,Web Developer,Git,technical,58,15.4,1,1
+web-developer,Web Developer,AWS,technical,57,14.5,1,1
+web-developer,Web Developer,Web application,technical,55,12.3,0,1
+web-developer,Web Developer,Java,technical,54,11.0,1,1
+web-developer,Web Developer,jQuery,technical,53,10.1,1,1
+web-developer,Web Developer,Programming,core,78,,0,0
+web-developer,Web Developer,Critical Thinking,core,69,,0,0
+web-developer,Web Developer,Reading Comprehension,core,66,,0,0
+web-developer,Web Developer,Complex Problem Solving,core,66,,0,0
+web-developer,Web Developer,Operations Analysis,core,66,,0,0
+web-developer,Web Developer,Active Learning,core,62,,0,0
+web-developer,Web Developer,Active Listening,core,62,,0,0
+web-developer,Web Developer,Judgment and Decision Making,core,60,,0,0
+web-developer,Web Developer,Computers and Electronics,knowledge,84,,0,0
+web-developer,Web Developer,English Language,knowledge,64,,0,0
+web-developer,Web Developer,Mathematics,knowledge,59,,0,0
+web-developer,Web Developer,Communications and Media,knowledge,55,,0,0
+web-developer,Web Developer,Design,knowledge,49,,0,0
+web-developer,Web Developer,Customer and Personal Service,knowledge,49,,0,0
+security-analyst,Cybersecurity Analyst,AWS,technical,100,24.2,1,1
+security-analyst,Cybersecurity Analyst,Python,technical,100,24.2,1,1
+security-analyst,Cybersecurity Analyst,Azure,technical,100,22.0,1,1
+security-analyst,Cybersecurity Analyst,Linux,technical,89,17.3,1,1
+security-analyst,Cybersecurity Analyst,Access management,technical,69,12.7,0,0
+security-analyst,Cybersecurity Analyst,Penetration testing,technical,69,12.7,0,0
+security-analyst,Cybersecurity Analyst,IPS,technical,61,9.7,0,0
+security-analyst,Cybersecurity Analyst,Firewall,technical,69,9.5,0,1
+security-analyst,Cybersecurity Analyst,PowerShell,technical,68,9.3,1,1
+security-analyst,Cybersecurity Analyst,IDS,technical,60,9.3,0,0
+security-analyst,Cybersecurity Analyst,Splunk,technical,66,8.6,1,1
+security-analyst,Cybersecurity Analyst,MS Office,technical,65,8.2,1,1
+security-analyst,Cybersecurity Analyst,Active directory,technical,57,8.2,0,0
+security-analyst,Cybersecurity Analyst,Bash,technical,57,8.2,1,0
+security-analyst,Cybersecurity Analyst,Reading Comprehension,core,75,,0,0
+security-analyst,Cybersecurity Analyst,Critical Thinking,core,72,,0,0
+security-analyst,Cybersecurity Analyst,Active Listening,core,69,,0,0
+security-analyst,Cybersecurity Analyst,Complex Problem Solving,core,69,,0,0
+security-analyst,Cybersecurity Analyst,Speaking,core,66,,0,0
+security-analyst,Cybersecurity Analyst,Writing,core,62,,0,0
+security-analyst,Cybersecurity Analyst,Monitoring,core,60,,0,0
+security-analyst,Cybersecurity Analyst,Judgment and Decision Making,core,60,,0,0
+security-analyst,Cybersecurity Analyst,Computers and Electronics,knowledge,84,,0,0
+security-analyst,Cybersecurity Analyst,English Language,knowledge,82,,0,0
+security-analyst,Cybersecurity Analyst,Administration and Management,knowledge,67,,0,0
+security-analyst,Cybersecurity Analyst,Telecommunications,knowledge,66,,0,0
+security-analyst,Cybersecurity Analyst,Engineering and Technology,knowledge,66,,0,0
+security-analyst,Cybersecurity Analyst,Customer and Personal Service,knowledge,60,,0,0
+ux-designer,UX / UI Designer,Figma,technical,100,49.5,1,1
+ux-designer,UX / UI Designer,CSS,technical,63,15.5,1,1
+ux-designer,UX / UI Designer,JavaScript,technical,59,12.3,1,1
+ux-designer,UX / UI Designer,Adobe XD,technical,56,10.1,0,1
+ux-designer,UX / UI Designer,InVision,technical,48,10.1,0,0
+ux-designer,UX / UI Designer,Illustrator,technical,53,7.6,1,1
+ux-designer,UX / UI Designer,Photoshop,technical,53,7.6,1,1
+ux-designer,UX / UI Designer,Android,technical,44,7.2,1,0
+ux-designer,UX / UI Designer,React,technical,51,5.8,1,1
+ux-designer,UX / UI Designer,iOS,technical,43,5.8,1,0
+ux-designer,UX / UI Designer,Google Analytics,technical,41,4.7,1,0
+ux-designer,UX / UI Designer,Jira,technical,49,4.3,1,1
+ux-designer,UX / UI Designer,MS Office,technical,41,4.3,1,0
+ux-designer,UX / UI Designer,Excel,technical,39,2.9,1,0
+ux-designer,UX / UI Designer,Reading Comprehension,core,69,,0,0
+ux-designer,UX / UI Designer,Judgment and Decision Making,core,62,,0,0
+ux-designer,UX / UI Designer,Critical Thinking,core,62,,0,0
+ux-designer,UX / UI Designer,Complex Problem Solving,core,60,,0,0
+ux-designer,UX / UI Designer,Active Listening,core,60,,0,0
+ux-designer,UX / UI Designer,Active Learning,core,60,,0,0
+ux-designer,UX / UI Designer,Programming,core,56,,0,0
+ux-designer,UX / UI Designer,Writing,core,53,,0,0
+ux-designer,UX / UI Designer,Computers and Electronics,knowledge,74,,0,0
+ux-designer,UX / UI Designer,English Language,knowledge,71,,0,0
+ux-designer,UX / UI Designer,Customer and Personal Service,knowledge,64,,0,0
+ux-designer,UX / UI Designer,Administration and Management,knowledge,53,,0,0
+ux-designer,UX / UI Designer,Sales and Marketing,knowledge,47,,0,0
+ux-designer,UX / UI Designer,Design,knowledge,44,,0,0
+cloud-network-architect,Cloud & Network Architect,Azure,technical,100,32.1,1,1
+cloud-network-architect,Cloud & Network Architect,AWS,technical,100,28.6,1,1
+cloud-network-architect,Cloud & Network Architect,Python,technical,86,21.1,1,1
+cloud-network-architect,Cloud & Network Architect,WAN,technical,67,15.6,0,0
+cloud-network-architect,Cloud & Network Architect,BGP,technical,70,13.2,1,1
+cloud-network-architect,Cloud & Network Architect,Linux,technical,70,13.2,1,1
+cloud-network-architect,Cloud & Network Architect,LAN,technical,61,12.8,0,0
+cloud-network-architect,Cloud & Network Architect,VPN,technical,61,12.7,0,0
+cloud-network-architect,Cloud & Network Architect,SQL,technical,66,11.6,1,1
+cloud-network-architect,Cloud & Network Architect,OSPF,technical,58,11.6,0,0
+cloud-network-architect,Cloud & Network Architect,Firewall,technical,66,11.4,0,1
+cloud-network-architect,Cloud & Network Architect,DNS,technical,58,11.4,0,0
+cloud-network-architect,Cloud & Network Architect,VMware,technical,53,9.0,0,0
+cloud-network-architect,Cloud & Network Architect,Ansible,technical,59,8.0,1,1
+cloud-network-architect,Cloud & Network Architect,Critical Thinking,core,78,,0,0
+cloud-network-architect,Cloud & Network Architect,Reading Comprehension,core,75,,0,0
+cloud-network-architect,Cloud & Network Architect,Complex Problem Solving,core,72,,0,0
+cloud-network-architect,Cloud & Network Architect,Systems Evaluation,core,72,,0,0
+cloud-network-architect,Cloud & Network Architect,Programming,core,72,,0,0
+cloud-network-architect,Cloud & Network Architect,Systems Analysis,core,69,,0,0
+cloud-network-architect,Cloud & Network Architect,Active Listening,core,69,,0,0
+cloud-network-architect,Cloud & Network Architect,Judgment and Decision Making,core,69,,0,0
+cloud-network-architect,Cloud & Network Architect,Computers and Electronics,knowledge,92,,0,0
+cloud-network-architect,Cloud & Network Architect,Telecommunications,knowledge,81,,0,0
+cloud-network-architect,Cloud & Network Architect,Engineering and Technology,knowledge,81,,0,0
+cloud-network-architect,Cloud & Network Architect,English Language,knowledge,70,,0,0
+cloud-network-architect,Cloud & Network Architect,Education and Training,knowledge,57,,0,0
+cloud-network-architect,Cloud & Network Architect,Design,knowledge,55,,0,0
+database-admin,Database Administrator,SQL,technical,100,67.5,1,1
+database-admin,Database Administrator,Python,technical,89,48.2,1,1
+database-admin,Database Administrator,AWS,technical,81,39.7,1,1
+database-admin,Database Administrator,Azure,technical,75,33.4,1,1
+database-admin,Database Administrator,Spark,technical,66,24.0,1,1
+database-admin,Database Administrator,Data modeling,technical,56,22.3,0,0
+database-admin,Database Administrator,SQL Server,technical,64,21.9,1,1
+database-admin,Database Administrator,Java,technical,61,18.2,1,1
+database-admin,Database Administrator,Snowflake,technical,59,17.0,1,1
+database-admin,Database Administrator,Scala,technical,58,15.5,1,1
+database-admin,Database Administrator,NoSQL,technical,57,15.0,1,1
+database-admin,Database Administrator,Redshift,technical,56,13.8,1,1
+database-admin,Database Administrator,Linux,technical,54,11.6,1,1
+database-admin,Database Administrator,MySQL,technical,54,11.6,1,1
+database-admin,Database Administrator,Critical Thinking,core,72,,0,0
+database-admin,Database Administrator,Complex Problem Solving,core,72,,0,0
+database-admin,Database Administrator,Reading Comprehension,core,69,,0,0
+database-admin,Database Administrator,Judgment and Decision Making,core,69,,0,0
+database-admin,Database Administrator,Active Listening,core,69,,0,0
+database-admin,Database Administrator,Active Learning,core,62,,0,0
+database-admin,Database Administrator,Programming,core,60,,0,0
+database-admin,Database Administrator,Speaking,core,60,,0,0
+database-admin,Database Administrator,Computers and Electronics,knowledge,95,,0,0
+database-admin,Database Administrator,English Language,knowledge,74,,0,0
+database-admin,Database Administrator,Customer and Personal Service,knowledge,73,,0,0
+database-admin,Database Administrator,Mathematics,knowledge,64,,0,0
+database-admin,Database Administrator,Telecommunications,knowledge,64,,0,0
+database-admin,Database Administrator,Engineering and Technology,knowledge,63,,0,0
+qa-engineer,QA & Test Engineer,Python,technical,100,19.4,1,1
+qa-engineer,QA & Test Engineer,Selenium,technical,100,17.6,1,1
+qa-engineer,QA & Test Engineer,SQL,technical,99,16.8,1,1
+qa-engineer,QA & Test Engineer,Jira,technical,94,15.3,1,1
+qa-engineer,QA & Test Engineer,Java,technical,90,14.1,1,1
+qa-engineer,QA & Test Engineer,Linux,technical,75,9.6,1,1
+qa-engineer,QA & Test Engineer,MS Office,technical,72,8.8,1,1
+qa-engineer,QA & Test Engineer,Regression testing,technical,63,8.4,0,0
+qa-engineer,QA & Test Engineer,AWS,technical,68,7.4,1,1
+qa-engineer,QA & Test Engineer,Excel,technical,67,7.2,1,1
+qa-engineer,QA & Test Engineer,Functional testing,technical,57,6.5,0,0
+qa-engineer,QA & Test Engineer,Integration testing,technical,57,6.5,0,0
+qa-engineer,QA & Test Engineer,JavaScript,technical,63,5.9,1,1
+qa-engineer,QA & Test Engineer,Azure,technical,62,5.7,1,1
+qa-engineer,QA & Test Engineer,Reading Comprehension,core,75,,0,0
+qa-engineer,QA & Test Engineer,Active Listening,core,72,,0,0
+qa-engineer,QA & Test Engineer,Speaking,core,72,,0,0
+qa-engineer,QA & Test Engineer,Critical Thinking,core,72,,0,0
+qa-engineer,QA & Test Engineer,Writing,core,69,,0,0
+qa-engineer,QA & Test Engineer,Monitoring,core,66,,0,0
+qa-engineer,QA & Test Engineer,Programming,core,66,,0,0
+qa-engineer,QA & Test Engineer,Quality Control Analysis,core,60,,0,0
+qa-engineer,QA & Test Engineer,Computers and Electronics,knowledge,85,,0,0
+qa-engineer,QA & Test Engineer,English Language,knowledge,70,,0,0
+qa-engineer,QA & Test Engineer,Mathematics,knowledge,57,,0,0
+qa-engineer,QA & Test Engineer,Engineering and Technology,knowledge,57,,0,0
+qa-engineer,QA & Test Engineer,Design,knowledge,50,,0,0
+qa-engineer,QA & Test Engineer,Education and Training,knowledge,47,,0,0
+it-manager,IT Manager,Azure,technical,100,12.5,1,1
+it-manager,IT Manager,SQL,technical,92,10.9,1,0
+it-manager,IT Manager,Linux,technical,76,7.8,1,0
+it-manager,IT Manager,MS Office,technical,76,7.8,1,0
+it-manager,IT Manager,SAP,technical,76,7.8,1,0
+it-manager,IT Manager,AWS,technical,75,6.2,1,1
+it-manager,IT Manager,VMware,technical,67,6.2,0,0
+it-manager,IT Manager,C#,technical,59,4.7,1,0
+it-manager,IT Manager,C++,technical,59,4.7,1,0
+it-manager,IT Manager,Help desk,technical,59,4.7,0,0
+it-manager,IT Manager,Excel,technical,59,4.7,1,0
+it-manager,IT Manager,SQL Server,technical,59,4.7,1,0
+it-manager,IT Manager,Visual Basic,technical,59,4.7,1,0
+it-manager,IT Manager,Visual Studio,technical,59,4.7,1,0
+it-manager,IT Manager,Critical Thinking,core,78,,0,0
+it-manager,IT Manager,Active Listening,core,75,,0,0
+it-manager,IT Manager,Reading Comprehension,core,75,,0,0
+it-manager,IT Manager,Monitoring,core,72,,0,0
+it-manager,IT Manager,Speaking,core,72,,0,0
+it-manager,IT Manager,Judgment and Decision Making,core,72,,0,0
+it-manager,IT Manager,Writing,core,69,,0,0
+it-manager,IT Manager,Complex Problem Solving,core,69,,0,0
+it-manager,IT Manager,Computers and Electronics,knowledge,94,,0,0
+it-manager,IT Manager,Customer and Personal Service,knowledge,76,,0,0
+it-manager,IT Manager,Administration and Management,knowledge,68,,0,0
+it-manager,IT Manager,Engineering and Technology,knowledge,62,,0,0
+it-manager,IT Manager,English Language,knowledge,62,,0,0
+it-manager,IT Manager,Personnel and Human Resources,knowledge,60,,0,0
+research-scientist,AI Research Scientist,Python,technical,100,45.2,1,1
+research-scientist,AI Research Scientist,C++,technical,79,25.0,1,1
+research-scientist,AI Research Scientist,Java,technical,71,19.2,1,1
+research-scientist,AI Research Scientist,PyTorch,technical,69,18.3,1,1
+research-scientist,AI Research Scientist,TensorFlow,technical,58,10.6,1,1
+research-scientist,AI Research Scientist,C,technical,57,9.6,1,1
+research-scientist,AI Research Scientist,MATLAB,technical,46,7.7,1,0
+research-scientist,AI Research Scientist,R,technical,53,6.7,1,1
+research-scientist,AI Research Scientist,Excel,technical,45,6.7,1,0
+research-scientist,AI Research Scientist,Linux,technical,51,5.8,1,1
+research-scientist,AI Research Scientist,SQL,technical,50,4.8,1,1
+research-scientist,AI Research Scientist,MS Office,technical,42,4.8,1,0
+research-scientist,AI Research Scientist,AWS,technical,48,3.8,1,1
+research-scientist,AI Research Scientist,Ada,technical,40,3.8,0,0
+research-scientist,AI Research Scientist,Judgment and Decision Making,core,75,,0,0
+research-scientist,AI Research Scientist,Complex Problem Solving,core,75,,0,0
+research-scientist,AI Research Scientist,Critical Thinking,core,75,,0,0
+research-scientist,AI Research Scientist,Reading Comprehension,core,69,,0,0
+research-scientist,AI Research Scientist,Active Listening,core,69,,0,0
+research-scientist,AI Research Scientist,Systems Analysis,core,69,,0,0
+research-scientist,AI Research Scientist,Systems Evaluation,core,66,,0,0
+research-scientist,AI Research Scientist,Programming,core,66,,0,0
+research-scientist,AI Research Scientist,Computers and Electronics,knowledge,89,,0,0
+research-scientist,AI Research Scientist,Mathematics,knowledge,76,,0,0
+research-scientist,AI Research Scientist,Engineering and Technology,knowledge,74,,0,0
+research-scientist,AI Research Scientist,English Language,knowledge,72,,0,0
+research-scientist,AI Research Scientist,Administration and Management,knowledge,57,,0,0
+research-scientist,AI Research Scientist,Design,knowledge,57,,0,0
+statistician,Statistician,SAS,technical,100,66.7,1,1
+statistician,Statistician,R,technical,75,33.3,1,1
+statistician,Statistician,Python,technical,59,16.7,1,1
+statistician,Statistician,SQL,technical,55,12.5,1,1
+statistician,Statistician,MS Office,technical,53,10.4,1,1
+statistician,Statistician,SAP,technical,43,8.3,1,0
+statistician,Statistician,SPSS,technical,49,6.2,1,1
+statistician,Statistician,Excel,technical,47,4.2,1,1
+statistician,Statistician,C++,technical,39,4.2,1,0
+statistician,Statistician,PowerPoint,technical,39,4.2,1,0
+statistician,Statistician,Minitab,technical,39,4.2,0,0
+statistician,Statistician,Tableau,technical,45,2.1,1,1
+statistician,Statistician,Redshift,technical,37,2.1,1,0
+statistician,Statistician,VBA,technical,37,2.1,1,0
+statistician,Statistician,Mathematics,core,97,,0,0
+statistician,Statistician,Critical Thinking,core,75,,0,0
+statistician,Statistician,Reading Comprehension,core,75,,0,0
+statistician,Statistician,Speaking,core,72,,0,0
+statistician,Statistician,Active Listening,core,72,,0,0
+statistician,Statistician,Complex Problem Solving,core,72,,0,0
+statistician,Statistician,Writing,core,69,,0,0
+statistician,Statistician,Active Learning,core,69,,0,0
+statistician,Statistician,Mathematics,knowledge,92,,0,0
+statistician,Statistician,Computers and Electronics,knowledge,80,,0,0
+statistician,Statistician,English Language,knowledge,72,,0,0
+statistician,Statistician,Education and Training,knowledge,48,,0,0
+statistician,Statistician,Administration and Management,knowledge,45,,0,0
+statistician,Statistician,Customer and Personal Service,knowledge,37,,0,0
+operations-research,Operations Research Analyst,Excel,technical,100,47.6,1,1
+operations-research,Operations Research Analyst,MS Office,technical,74,22.4,1,1
+operations-research,Operations Research Analyst,SQL,technical,66,17.1,1,1
+operations-research,Operations Research Analyst,Tableau,technical,61,13.5,1,1
+operations-research,Operations Research Analyst,PowerPoint,technical,60,12.4,1,1
+operations-research,Operations Research Analyst,Salesforce,technical,57,10.6,1,1
+operations-research,Operations Research Analyst,SAP,technical,49,10.6,1,0
+operations-research,Operations Research Analyst,Power BI,technical,55,8.8,1,1
+operations-research,Operations Research Analyst,Outlook,technical,52,6.5,1,1
+operations-research,Operations Research Analyst,Python,technical,51,5.9,1,1
+operations-research,Operations Research Analyst,MS Word,technical,40,3.5,1,0
+operations-research,Operations Research Analyst,SharePoint,technical,39,2.9,1,0
+operations-research,Operations Research Analyst,Visio,technical,38,2.4,1,0
+operations-research,Operations Research Analyst,VBA,technical,38,2.4,1,0
+operations-research,Operations Research Analyst,Mathematics,core,88,,0,0
+operations-research,Operations Research Analyst,Complex Problem Solving,core,78,,0,0
+operations-research,Operations Research Analyst,Reading Comprehension,core,75,,0,0
+operations-research,Operations Research Analyst,Writing,core,75,,0,0
+operations-research,Operations Research Analyst,Active Listening,core,75,,0,0
+operations-research,Operations Research Analyst,Critical Thinking,core,75,,0,0
+operations-research,Operations Research Analyst,Speaking,core,75,,0,0
+operations-research,Operations Research Analyst,Active Learning,core,72,,0,0
+operations-research,Operations Research Analyst,Mathematics,knowledge,93,,0,0
+operations-research,Operations Research Analyst,Computers and Electronics,knowledge,77,,0,0
+operations-research,Operations Research Analyst,Engineering and Technology,knowledge,74,,0,0
+operations-research,Operations Research Analyst,Production and Processing,knowledge,68,,0,0
+operations-research,Operations Research Analyst,English Language,knowledge,64,,0,0
+operations-research,Operations Research Analyst,Design,knowledge,52,,0,0
+blockchain-engineer,Blockchain Engineer,Solidity,technical,100,30.4,0,1
+blockchain-engineer,Blockchain Engineer,Python,technical,80,17.4,1,1
+blockchain-engineer,Blockchain Engineer,JavaScript,technical,62,8.7,1,1
+blockchain-engineer,Blockchain Engineer,React,technical,62,8.7,1,1
+blockchain-engineer,Blockchain Engineer,AWS,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,C++,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,Go,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,Azure,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,Node.js,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,Java,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,PostgreSQL,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,SQL,technical,52,4.3,1,1
+blockchain-engineer,Blockchain Engineer,C,technical,44,4.3,1,0
+blockchain-engineer,Blockchain Engineer,GitHub,technical,44,4.3,1,0
+blockchain-engineer,Blockchain Engineer,Reading Comprehension,core,75,,0,0
+blockchain-engineer,Blockchain Engineer,Active Listening,core,69,,0,0
+blockchain-engineer,Blockchain Engineer,Critical Thinking,core,69,,0,0
+blockchain-engineer,Blockchain Engineer,Complex Problem Solving,core,66,,0,0
+blockchain-engineer,Blockchain Engineer,Active Learning,core,62,,0,0
+blockchain-engineer,Blockchain Engineer,Judgment and Decision Making,core,62,,0,0
+blockchain-engineer,Blockchain Engineer,Time Management,core,60,,0,0
+blockchain-engineer,Blockchain Engineer,Programming,core,60,,0,0
+blockchain-engineer,Blockchain Engineer,Computers and Electronics,knowledge,88,,0,0
+blockchain-engineer,Blockchain Engineer,Engineering and Technology,knowledge,82,,0,0
+blockchain-engineer,Blockchain Engineer,Mathematics,knowledge,67,,0,0
+blockchain-engineer,Blockchain Engineer,English Language,knowledge,52,,0,0
+blockchain-engineer,Blockchain Engineer,Design,knowledge,46,,0,0
+blockchain-engineer,Blockchain Engineer,Law and Government,knowledge,43,,0,0
+game-designer,Video Game Designer,C++,technical,100,36.4,1,1
+game-designer,Video Game Designer,Unity,technical,100,31.8,0,1
+game-designer,Video Game Designer,C#,technical,67,13.6,1,1
+game-designer,Video Game Designer,Python,technical,67,13.6,1,1
+game-designer,Video Game Designer,Perforce,technical,59,13.6,0,0
+game-designer,Video Game Designer,Git,technical,51,9.1,1,0
+game-designer,Video Game Designer,HLSL,technical,51,9.1,0,0
+game-designer,Video Game Designer,Jira,technical,43,4.5,1,0
+game-designer,Video Game Designer,Lua,technical,43,4.5,0,0
+game-designer,Video Game Designer,Photoshop,technical,43,0.0,1,1
+game-designer,Video Game Designer,Autodesk Maya,technical,43,0.0,0,1
+game-designer,Video Game Designer,Unreal Technology Unreal Engine,technical,43,0.0,0,1
+game-designer,Video Game Designer,Programming,core,75,,0,0
+game-designer,Video Game Designer,Active Listening,core,72,,0,0
+game-designer,Video Game Designer,Reading Comprehension,core,69,,0,0
+game-designer,Video Game Designer,Critical Thinking,core,69,,0,0
+game-designer,Video Game Designer,Judgment and Decision Making,core,66,,0,0
+game-designer,Video Game Designer,Complex Problem Solving,core,66,,0,0
+game-designer,Video Game Designer,Active Learning,core,62,,0,0
+game-designer,Video Game Designer,Time Management,core,60,,0,0
+game-designer,Video Game Designer,Design,knowledge,82,,0,0
+game-designer,Video Game Designer,Computers and Electronics,knowledge,79,,0,0
+game-designer,Video Game Designer,Communications and Media,knowledge,62,,0,0
+game-designer,Video Game Designer,Psychology,knowledge,57,,0,0
+game-designer,Video Game Designer,Mathematics,knowledge,57,,0,0
+game-designer,Video Game Designer,English Language,knowledge,56,,0,0
+graphic-designer,Graphic Designer,Photoshop,technical,100,56.3,1,1
+graphic-designer,Graphic Designer,Illustrator,technical,100,53.5,1,1
+graphic-designer,Graphic Designer,InDesign,technical,95,45.1,1,1
+graphic-designer,Graphic Designer,Figma,technical,67,20.4,1,1
+graphic-designer,Graphic Designer,PowerPoint,technical,63,17.6,1,1
+graphic-designer,Graphic Designer,MS Office,technical,60,14.8,1,1
+graphic-designer,Graphic Designer,After Effects,technical,58,13.4,1,1
+graphic-designer,Graphic Designer,CSS,technical,54,9.9,1,1
+graphic-designer,Graphic Designer,Excel,technical,52,7.7,1,1
+graphic-designer,Graphic Designer,Acrobat,technical,43,7.0,1,0
+graphic-designer,Graphic Designer,Adobe Creative Cloud,technical,49,5.6,1,1
+graphic-designer,Graphic Designer,Outlook,technical,41,5.6,1,0
+graphic-designer,Graphic Designer,WordPress,technical,41,5.6,1,0
+graphic-designer,Graphic Designer,Premiere Pro,technical,49,4.9,0,1
+graphic-designer,Graphic Designer,Active Listening,core,69,,0,0
+graphic-designer,Graphic Designer,Speaking,core,60,,0,0
+graphic-designer,Graphic Designer,Writing,core,56,,0,0
+graphic-designer,Graphic Designer,Active Learning,core,56,,0,0
+graphic-designer,Graphic Designer,Critical Thinking,core,56,,0,0
+graphic-designer,Graphic Designer,Reading Comprehension,core,53,,0,0
+graphic-designer,Graphic Designer,Social Perceptiveness,core,53,,0,0
+graphic-designer,Graphic Designer,Complex Problem Solving,core,53,,0,0
+graphic-designer,Graphic Designer,Design,knowledge,92,,0,0
+graphic-designer,Graphic Designer,Fine Arts,knowledge,85,,0,0
+graphic-designer,Graphic Designer,Computers and Electronics,knowledge,85,,0,0
+graphic-designer,Graphic Designer,Communications and Media,knowledge,82,,0,0
+graphic-designer,Graphic Designer,English Language,knowledge,70,,0,0
+graphic-designer,Graphic Designer,Sales and Marketing,knowledge,66,,0,0
+video-editor,Film & Video Editor,After Effects,technical,100,61.8,1,1
+video-editor,Film & Video Editor,Video editing,technical,100,58.8,0,1
+video-editor,Film & Video Editor,Photoshop,technical,93,47.1,1,1
+video-editor,Film & Video Editor,Premiere Pro,technical,74,29.4,0,1
+video-editor,Film & Video Editor,Illustrator,technical,68,23.5,1,1
+video-editor,Film & Video Editor,DaVinci Resolve,technical,58,14.7,0,1
+video-editor,Film & Video Editor,MS Office,technical,50,14.7,1,0
+video-editor,Film & Video Editor,Adobe Creative Cloud,technical,55,11.8,1,1
+video-editor,Film & Video Editor,TikTok,technical,52,8.8,1,1
+video-editor,Film & Video Editor,InDesign,technical,49,5.9,1,1
+video-editor,Film & Video Editor,Excel,technical,41,5.9,1,0
+video-editor,Film & Video Editor,Director,technical,38,2.9,0,0
+video-editor,Film & Video Editor,PowerPoint,technical,38,2.9,1,0
+video-editor,Film & Video Editor,Apple Final Cut Pro,technical,43,0.0,0,1
+video-editor,Film & Video Editor,Active Listening,core,69,,0,0
+video-editor,Film & Video Editor,Critical Thinking,core,62,,0,0
+video-editor,Film & Video Editor,Reading Comprehension,core,60,,0,0
+video-editor,Film & Video Editor,Active Learning,core,56,,0,0
+video-editor,Film & Video Editor,Speaking,core,56,,0,0
+video-editor,Film & Video Editor,Complex Problem Solving,core,56,,0,0
+video-editor,Film & Video Editor,Writing,core,53,,0,0
+video-editor,Film & Video Editor,Judgment and Decision Making,core,53,,0,0
+video-editor,Film & Video Editor,Communications and Media,knowledge,99,,0,0
+video-editor,Film & Video Editor,English Language,knowledge,90,,0,0
+video-editor,Film & Video Editor,Computers and Electronics,knowledge,88,,0,0
+video-editor,Film & Video Editor,Telecommunications,knowledge,78,,0,0
+video-editor,Film & Video Editor,Fine Arts,knowledge,76,,0,0
+video-editor,Film & Video Editor,Production and Processing,knowledge,68,,0,0
+technical-writer,Technical Writer,MS Office,technical,100,27.8,1,1
+technical-writer,Technical Writer,Excel,technical,78,15.0,1,1
+technical-writer,Technical Writer,PowerPoint,technical,68,10.5,1,1
+technical-writer,Technical Writer,SharePoint,technical,66,9.8,1,1
+technical-writer,Technical Writer,MS Word,technical,64,9.0,1,1
+technical-writer,Technical Writer,FrameMaker,technical,53,7.5,0,0
+technical-writer,Technical Writer,Outlook,technical,57,6.0,1,1
+technical-writer,Technical Writer,Confluence,technical,55,5.3,1,1
+technical-writer,Technical Writer,Jira,technical,54,4.5,1,1
+technical-writer,Technical Writer,DITA,technical,46,4.5,0,0
+technical-writer,Technical Writer,Git,technical,46,4.5,1,0
+technical-writer,Technical Writer,Acrobat,technical,42,3.0,1,0
+technical-writer,Technical Writer,InDesign,technical,42,3.0,1,0
+technical-writer,Technical Writer,Epic EHR,technical,42,3.0,1,0
+technical-writer,Technical Writer,Writing,core,97,,0,0
+technical-writer,Technical Writer,Reading Comprehension,core,78,,0,0
+technical-writer,Technical Writer,Active Listening,core,69,,0,0
+technical-writer,Technical Writer,Speaking,core,69,,0,0
+technical-writer,Technical Writer,Critical Thinking,core,66,,0,0
+technical-writer,Technical Writer,Active Learning,core,56,,0,0
+technical-writer,Technical Writer,Time Management,core,53,,0,0
+technical-writer,Technical Writer,Judgment and Decision Making,core,53,,0,0
+technical-writer,Technical Writer,English Language,knowledge,95,,0,0
+technical-writer,Technical Writer,Computers and Electronics,knowledge,82,,0,0
+technical-writer,Technical Writer,Administrative,knowledge,69,,0,0
+technical-writer,Technical Writer,Communications and Media,knowledge,56,,0,0
+technical-writer,Technical Writer,Administration and Management,knowledge,56,,0,0
+technical-writer,Technical Writer,Public Safety and Security,knowledge,54,,0,0
+project-manager,Project Manager,MS Office,technical,100,20.6,1,1
+project-manager,Project Manager,Excel,technical,100,18.5,1,1
+project-manager,Project Manager,MS Project,technical,75,10.0,1,1
+project-manager,Project Manager,PowerPoint,technical,74,9.7,1,1
+project-manager,Project Manager,Jira,technical,67,7.7,1,1
+project-manager,Project Manager,Outlook,technical,64,6.5,1,1
+project-manager,Project Manager,Smartsheet,technical,47,3.8,0,0
+project-manager,Project Manager,SharePoint,technical,45,3.3,1,0
+project-manager,Project Manager,Visio,technical,45,3.1,1,0
+project-manager,Project Manager,Confluence,technical,44,3.0,1,0
+project-manager,Project Manager,MS Word,technical,44,2.8,1,0
+project-manager,Project Manager,SAP,technical,44,2.7,1,0
+project-manager,Project Manager,Azure,technical,43,2.6,1,0
+project-manager,Project Manager,Salesforce,technical,43,2.4,1,0
+project-manager,Project Manager,Active Listening,core,69,,0,0
+project-manager,Project Manager,Critical Thinking,core,69,,0,0
+project-manager,Project Manager,Writing,core,66,,0,0
+project-manager,Project Manager,Judgment and Decision Making,core,66,,0,0
+project-manager,Project Manager,Monitoring,core,66,,0,0
+project-manager,Project Manager,Reading Comprehension,core,62,,0,0
+project-manager,Project Manager,Active Learning,core,62,,0,0
+project-manager,Project Manager,Coordination,core,62,,0,0
+project-manager,Project Manager,English Language,knowledge,76,,0,0
+project-manager,Project Manager,Administration and Management,knowledge,69,,0,0
+project-manager,Project Manager,Administrative,knowledge,66,,0,0
+project-manager,Project Manager,Customer and Personal Service,knowledge,62,,0,0
+project-manager,Project Manager,Computers and Electronics,knowledge,52,,0,0
+project-manager,Project Manager,Communications and Media,knowledge,47,,0,0
+management-consultant,Management Consultant,Excel,technical,100,27.5,1,1
+management-consultant,Management Consultant,SQL,technical,93,21.3,1,1
+management-consultant,Management Consultant,MS Office,technical,80,15.6,1,1
+management-consultant,Management Consultant,PowerPoint,technical,74,13.1,1,1
+management-consultant,Management Consultant,Jira,technical,73,12.5,1,1
+management-consultant,Management Consultant,Visio,technical,66,9.9,1,1
+management-consultant,Management Consultant,SharePoint,technical,59,6.6,1,1
+management-consultant,Management Consultant,Tableau,technical,59,6.6,1,1
+management-consultant,Management Consultant,Python,technical,57,5.9,1,1
+management-consultant,Management Consultant,Confluence,technical,49,5.8,1,0
+management-consultant,Management Consultant,Power BI,technical,56,5.5,1,1
+management-consultant,Management Consultant,Outlook,technical,48,5.5,1,0
+management-consultant,Management Consultant,Salesforce,technical,55,5.2,1,1
+management-consultant,Management Consultant,SAP,technical,47,5.2,1,0
+management-consultant,Management Consultant,Reading Comprehension,core,78,,0,0
+management-consultant,Management Consultant,Active Listening,core,78,,0,0
+management-consultant,Management Consultant,Critical Thinking,core,78,,0,0
+management-consultant,Management Consultant,Writing,core,75,,0,0
+management-consultant,Management Consultant,Speaking,core,75,,0,0
+management-consultant,Management Consultant,Complex Problem Solving,core,75,,0,0
+management-consultant,Management Consultant,Judgment and Decision Making,core,75,,0,0
+management-consultant,Management Consultant,Coordination,core,72,,0,0
+management-consultant,Management Consultant,English Language,knowledge,93,,0,0
+management-consultant,Management Consultant,Administration and Management,knowledge,84,,0,0
+management-consultant,Management Consultant,Customer and Personal Service,knowledge,75,,0,0
+management-consultant,Management Consultant,Mathematics,knowledge,66,,0,0
+management-consultant,Management Consultant,Education and Training,knowledge,65,,0,0
+management-consultant,Management Consultant,Computers and Electronics,knowledge,62,,0,0
+financial-analyst,Financial Analyst,Excel,technical,100,65.3,1,1
+financial-analyst,Financial Analyst,PowerPoint,technical,63,20.0,1,1
+financial-analyst,Financial Analyst,Financial modeling,technical,54,19.2,0,0
+financial-analyst,Financial Analyst,MS Office,technical,62,18.8,1,1
+financial-analyst,Financial Analyst,SAP,technical,60,16.9,1,1
+financial-analyst,Financial Analyst,Power BI,technical,54,10.6,1,1
+financial-analyst,Financial Analyst,SQL,technical,53,10.4,1,1
+financial-analyst,Financial Analyst,Tableau,technical,50,6.9,1,1
+financial-analyst,Financial Analyst,Hyperion,technical,42,6.9,0,0
+financial-analyst,Financial Analyst,Data visualization,technical,41,6.5,0,0
+financial-analyst,Financial Analyst,Outlook,technical,47,4.1,1,1
+financial-analyst,Financial Analyst,Workday,technical,39,4.1,1,0
+financial-analyst,Financial Analyst,Essbase,technical,38,3.3,0,0
+financial-analyst,Financial Analyst,Portfolio management,technical,37,2.2,0,0
+accountant,Accountant & Auditor,Excel,technical,100,47.2,1,1
+accountant,Accountant & Auditor,General ledger,technical,78,31.2,0,0
+accountant,Accountant & Auditor,Financial reporting,technical,64,21.2,0,0
+accountant,Accountant & Auditor,MS Office,technical,72,20.7,1,1
+accountant,Accountant & Auditor,Accounts payable,technical,60,18.5,0,0
+accountant,Accountant & Auditor,Accounts receivable,technical,54,13.8,0,0
+accountant,Accountant & Auditor,Financial statement,technical,47,8.6,0,0
+accountant,Accountant & Auditor,SAP,technical,54,8.3,1,1
+accountant,Accountant & Auditor,QuickBooks,technical,53,7.6,1,1
+accountant,Accountant & Auditor,Outlook,technical,52,6.5,1,1
+accountant,Accountant & Auditor,Internal audit,technical,43,5.8,0,0
+accountant,Accountant & Auditor,Cost accounting,technical,43,5.7,0,0
+accountant,Accountant & Auditor,PowerPoint,technical,51,5.5,1,1
+accountant,Accountant & Auditor,Invoice,technical,40,3.6,0,0
+accountant,Accountant & Auditor,Reading Comprehension,core,72,,0,0
+accountant,Accountant & Auditor,Active Listening,core,62,,0,0
+accountant,Accountant & Auditor,Writing,core,62,,0,0
+accountant,Accountant & Auditor,Critical Thinking,core,62,,0,0
+accountant,Accountant & Auditor,Complex Problem Solving,core,62,,0,0
+accountant,Accountant & Auditor,Judgment and Decision Making,core,62,,0,0
+accountant,Accountant & Auditor,Mathematics,core,60,,0,0
+accountant,Accountant & Auditor,Speaking,core,60,,0,0
+accountant,Accountant & Auditor,Economics and Accounting,knowledge,84,,0,0
+accountant,Accountant & Auditor,English Language,knowledge,66,,0,0
+accountant,Accountant & Auditor,Mathematics,knowledge,62,,0,0
+accountant,Accountant & Auditor,Law and Government,knowledge,58,,0,0
+accountant,Accountant & Auditor,Administration and Management,knowledge,58,,0,0
+accountant,Accountant & Auditor,Customer and Personal Service,knowledge,57,,0,0
+actuary,Actuary,SQL,technical,100,35.3,1,1
+actuary,Actuary,R,technical,94,27.9,1,1
+actuary,Actuary,Excel,technical,90,25.7,1,1
+actuary,Actuary,Python,technical,90,25.7,1,1
+actuary,Actuary,VBA,technical,78,19.1,1,1
+actuary,Actuary,MS Office,technical,73,16.2,1,1
+actuary,Actuary,SAS,technical,70,14.7,1,1
+actuary,Actuary,PowerPoint,technical,52,5.1,1,1
+actuary,Actuary,Tableau,technical,52,5.1,1,1
+actuary,Actuary,Power BI,technical,47,2.2,1,1
+actuary,Actuary,GGY AXIS,technical,38,1.5,0,0
+actuary,Actuary,C++,technical,36,0.7,1,0
+actuary,Actuary,SPSS,technical,36,0.7,1,0
+actuary,Actuary,SQL Server,technical,36,0.7,1,0
+actuary,Actuary,Mathematics,core,84,,0,0
+actuary,Actuary,Reading Comprehension,core,78,,0,0
+actuary,Actuary,Active Listening,core,75,,0,0
+actuary,Actuary,Complex Problem Solving,core,75,,0,0
+actuary,Actuary,Critical Thinking,core,75,,0,0
+actuary,Actuary,Judgment and Decision Making,core,75,,0,0
+actuary,Actuary,Writing,core,72,,0,0
+actuary,Actuary,Systems Evaluation,core,72,,0,0
+actuary,Actuary,Mathematics,knowledge,96,,0,0
+actuary,Actuary,Economics and Accounting,knowledge,76,,0,0
+actuary,Actuary,Computers and Electronics,knowledge,61,,0,0
+actuary,Actuary,English Language,knowledge,53,,0,0
+actuary,Actuary,Administration and Management,knowledge,51,,0,0
+actuary,Actuary,Law and Government,knowledge,46,,0,0
+marketing-specialist,Marketing Specialist,Excel,technical,100,22.3,1,1
+marketing-specialist,Marketing Specialist,MS Office,technical,98,19.0,1,1
+marketing-specialist,Marketing Specialist,PowerPoint,technical,94,17.5,1,1
+marketing-specialist,Marketing Specialist,Google Analytics,technical,75,11.0,1,1
+marketing-specialist,Marketing Specialist,Salesforce,technical,72,9.8,1,1
+marketing-specialist,Marketing Specialist,Photoshop,technical,63,9.5,1,0
+marketing-specialist,Marketing Specialist,Outlook,technical,67,8.3,1,1
+marketing-specialist,Marketing Specialist,InDesign,technical,57,7.4,1,0
+marketing-specialist,Marketing Specialist,Canva,technical,61,6.2,1,1
+marketing-specialist,Marketing Specialist,Illustrator,technical,51,5.6,1,0
+marketing-specialist,Marketing Specialist,Google Ads,technical,50,5.3,0,0
+marketing-specialist,Marketing Specialist,HubSpot,technical,50,5.3,1,0
+marketing-specialist,Marketing Specialist,WordPress,technical,50,5.3,1,0
+marketing-specialist,Marketing Specialist,Data analysis,technical,50,5.0,0,0
+marketing-specialist,Marketing Specialist,Reading Comprehension,core,75,,0,0
+marketing-specialist,Marketing Specialist,Active Listening,core,75,,0,0
+marketing-specialist,Marketing Specialist,Writing,core,75,,0,0
+marketing-specialist,Marketing Specialist,Critical Thinking,core,75,,0,0
+marketing-specialist,Marketing Specialist,Speaking,core,72,,0,0
+marketing-specialist,Marketing Specialist,Active Learning,core,69,,0,0
+marketing-specialist,Marketing Specialist,Complex Problem Solving,core,69,,0,0
+marketing-specialist,Marketing Specialist,Judgment and Decision Making,core,69,,0,0
+marketing-specialist,Marketing Specialist,English Language,knowledge,80,,0,0
+marketing-specialist,Marketing Specialist,Sales and Marketing,knowledge,66,,0,0
+marketing-specialist,Marketing Specialist,Administration and Management,knowledge,60,,0,0
+marketing-specialist,Marketing Specialist,Customer and Personal Service,knowledge,60,,0,0
+marketing-specialist,Marketing Specialist,Administrative,knowledge,49,,0,0
+marketing-specialist,Marketing Specialist,Mathematics,knowledge,49,,0,0
+seo-strategist,SEO & Search Strategist,SEO,technical,100,58.4,0,1
+seo-strategist,SEO & Search Strategist,Google Analytics,technical,82,35.1,1,1
+seo-strategist,SEO & Search Strategist,Semrush,technical,66,20.8,0,1
+seo-strategist,SEO & Search Strategist,Excel,technical,65,19.5,1,1
+seo-strategist,SEO & Search Strategist,Google Ads,technical,62,16.9,0,1
+seo-strategist,SEO & Search Strategist,SQL,technical,50,13.6,1,0
+seo-strategist,SEO & Search Strategist,CSS,technical,55,11.0,1,1
+seo-strategist,SEO & Search Strategist,Bing,technical,47,11.0,0,0
+seo-strategist,SEO & Search Strategist,Python,technical,55,10.4,1,1
+seo-strategist,SEO & Search Strategist,WordPress,technical,52,7.8,1,1
+seo-strategist,SEO & Search Strategist,Twitter,technical,43,7.1,0,0
+seo-strategist,SEO & Search Strategist,CMS,technical,50,6.5,0,1
+seo-strategist,SEO & Search Strategist,Looker,technical,50,6.5,1,1
+seo-strategist,SEO & Search Strategist,MS Office,technical,50,6.5,1,1
+seo-strategist,SEO & Search Strategist,Reading Comprehension,core,72,,0,0
+seo-strategist,SEO & Search Strategist,Complex Problem Solving,core,72,,0,0
+seo-strategist,SEO & Search Strategist,Active Listening,core,69,,0,0
+seo-strategist,SEO & Search Strategist,Active Learning,core,69,,0,0
+seo-strategist,SEO & Search Strategist,Critical Thinking,core,69,,0,0
+seo-strategist,SEO & Search Strategist,Judgment and Decision Making,core,69,,0,0
+seo-strategist,SEO & Search Strategist,Speaking,core,66,,0,0
+seo-strategist,SEO & Search Strategist,Writing,core,62,,0,0
+seo-strategist,SEO & Search Strategist,Sales and Marketing,knowledge,90,,0,0
+seo-strategist,SEO & Search Strategist,Computers and Electronics,knowledge,82,,0,0
+seo-strategist,SEO & Search Strategist,English Language,knowledge,82,,0,0
+seo-strategist,SEO & Search Strategist,Communications and Media,knowledge,72,,0,0
+seo-strategist,SEO & Search Strategist,Mathematics,knowledge,63,,0,0
+seo-strategist,SEO & Search Strategist,Customer and Personal Service,knowledge,51,,0,0
+marketing-manager,Marketing Manager,Excel,technical,100,15.5,1,1
+marketing-manager,Marketing Manager,MS Office,technical,92,11.7,1,1
+marketing-manager,Marketing Manager,PowerPoint,technical,91,11.4,1,1
+marketing-manager,Marketing Manager,Salesforce,technical,84,9.7,1,1
+marketing-manager,Marketing Manager,Google Analytics,technical,69,8.1,1,0
+marketing-manager,Marketing Manager,HubSpot,technical,61,6.1,1,0
+marketing-manager,Marketing Manager,Photoshop,technical,57,5.3,1,0
+marketing-manager,Marketing Manager,Marketo,technical,55,4.7,1,0
+marketing-manager,Marketing Manager,Outlook,technical,53,4.4,1,0
+marketing-manager,Marketing Manager,Google Ads,technical,51,3.8,0,0
+marketing-manager,Marketing Manager,Canva,technical,50,3.6,1,0
+marketing-manager,Marketing Manager,Illustrator,technical,49,3.4,1,0
+marketing-manager,Marketing Manager,InDesign,technical,49,3.4,1,0
+marketing-manager,Marketing Manager,Tableau,technical,49,3.4,1,0
+marketing-manager,Marketing Manager,Active Listening,core,78,,0,0
+marketing-manager,Marketing Manager,Speaking,core,75,,0,0
+marketing-manager,Marketing Manager,Reading Comprehension,core,72,,0,0
+marketing-manager,Marketing Manager,Complex Problem Solving,core,72,,0,0
+marketing-manager,Marketing Manager,Critical Thinking,core,72,,0,0
+marketing-manager,Marketing Manager,Monitoring,core,72,,0,0
+marketing-manager,Marketing Manager,Active Learning,core,72,,0,0
+marketing-manager,Marketing Manager,Judgment and Decision Making,core,72,,0,0
+marketing-manager,Marketing Manager,Sales and Marketing,knowledge,93,,0,0
+marketing-manager,Marketing Manager,English Language,knowledge,88,,0,0
+marketing-manager,Marketing Manager,Customer and Personal Service,knowledge,83,,0,0
+marketing-manager,Marketing Manager,Communications and Media,knowledge,77,,0,0
+marketing-manager,Marketing Manager,Administration and Management,knowledge,74,,0,0
+marketing-manager,Marketing Manager,Education and Training,knowledge,56,,0,0
+hr-specialist,HR Specialist,MS Office,technical,100,26.9,1,1
+hr-specialist,HR Specialist,Applicant tracking,technical,95,21.7,0,1
+hr-specialist,HR Specialist,HRIS,technical,89,19.0,0,1
+hr-specialist,HR Specialist,Excel,technical,88,18.7,1,1
+hr-specialist,HR Specialist,Outlook,technical,67,9.9,1,1
+hr-specialist,HR Specialist,PowerPoint,technical,67,9.8,1,1
+hr-specialist,HR Specialist,Workday,technical,64,8.5,1,1
+hr-specialist,HR Specialist,MS Word,technical,41,2.5,1,0
+hr-specialist,HR Specialist,PeopleSoft,technical,39,1.6,1,0
+hr-specialist,HR Specialist,SAP,technical,39,1.5,1,0
+hr-specialist,HR Specialist,ADP Workforce Now,technical,38,1.2,0,0
+hr-specialist,HR Specialist,Candidate screening,technical,38,1.2,0,0
+hr-specialist,HR Specialist,HRMS,technical,38,1.2,0,0
+hr-specialist,HR Specialist,Zoom,technical,38,1.2,1,0
+hr-specialist,HR Specialist,Speaking,core,78,,0,0
+hr-specialist,HR Specialist,Active Listening,core,75,,0,0
+hr-specialist,HR Specialist,Reading Comprehension,core,75,,0,0
+hr-specialist,HR Specialist,Writing,core,72,,0,0
+hr-specialist,HR Specialist,Critical Thinking,core,72,,0,0
+hr-specialist,HR Specialist,Social Perceptiveness,core,60,,0,0
+hr-specialist,HR Specialist,Service Orientation,core,60,,0,0
+hr-specialist,HR Specialist,Active Learning,core,56,,0,0
+hr-specialist,HR Specialist,Personnel and Human Resources,knowledge,90,,0,0
+hr-specialist,HR Specialist,Administrative,knowledge,74,,0,0
+hr-specialist,HR Specialist,Administration and Management,knowledge,71,,0,0
+hr-specialist,HR Specialist,English Language,knowledge,70,,0,0
+hr-specialist,HR Specialist,Customer and Personal Service,knowledge,62,,0,0
+hr-specialist,HR Specialist,Law and Government,knowledge,57,,0,0
+registered-nurse,Registered Nurse,EMR,technical,100,2.4,0,0
+registered-nurse,Registered Nurse,MS Office,technical,89,2.0,1,0
+registered-nurse,Registered Nurse,Outlook,technical,84,1.8,1,0
+registered-nurse,Registered Nurse,Excel,technical,68,1.2,1,0
+registered-nurse,Registered Nurse,Epic EHR,technical,57,0.8,1,0
+registered-nurse,Registered Nurse,MS Word,technical,51,0.6,1,0
+registered-nurse,Registered Nurse,PowerPoint,technical,49,0.5,1,0
+registered-nurse,Registered Nurse,SharePoint,technical,43,0.3,1,0
+registered-nurse,Registered Nurse,MEDITECH,technical,38,0.1,1,0
+registered-nurse,Registered Nurse,Social Perceptiveness,core,78,,0,0
+registered-nurse,Registered Nurse,Speaking,core,75,,0,0
+registered-nurse,Registered Nurse,Active Listening,core,75,,0,0
+registered-nurse,Registered Nurse,Service Orientation,core,75,,0,0
+registered-nurse,Registered Nurse,Coordination,core,75,,0,0
+registered-nurse,Registered Nurse,Critical Thinking,core,75,,0,0
+registered-nurse,Registered Nurse,Reading Comprehension,core,72,,0,0
+registered-nurse,Registered Nurse,Judgment and Decision Making,core,72,,0,0
+registered-nurse,Registered Nurse,Psychology,knowledge,90,,0,0
+registered-nurse,Registered Nurse,Customer and Personal Service,knowledge,85,,0,0
+registered-nurse,Registered Nurse,Medicine and Dentistry,knowledge,84,,0,0
+registered-nurse,Registered Nurse,English Language,knowledge,80,,0,0
+registered-nurse,Registered Nurse,Administrative,knowledge,64,,0,0
+registered-nurse,Registered Nurse,Mathematics,knowledge,61,,0,0
+mechanical-engineer,Mechanical Engineer,SolidWorks,technical,100,32.1,1,1
+mechanical-engineer,Mechanical Engineer,AutoCAD,technical,83,19.8,1,1
+mechanical-engineer,Mechanical Engineer,MS Office,technical,75,15.7,1,1
+mechanical-engineer,Mechanical Engineer,Revit,technical,71,13.9,1,1
+mechanical-engineer,Mechanical Engineer,Excel,technical,64,10.5,1,1
+mechanical-engineer,Mechanical Engineer,CNC,technical,49,6.8,0,0
+mechanical-engineer,Mechanical Engineer,Rapid prototyping,technical,46,5.6,0,0
+mechanical-engineer,Mechanical Engineer,PowerPoint,technical,53,4.9,1,1
+mechanical-engineer,Mechanical Engineer,Bill of materials,technical,43,4.0,0,0
+mechanical-engineer,Mechanical Engineer,DOE,technical,42,3.4,0,0
+mechanical-engineer,Mechanical Engineer,Outlook,technical,49,3.1,1,1
+mechanical-engineer,Mechanical Engineer,CFD,technical,41,3.1,0,0
+mechanical-engineer,Mechanical Engineer,MATLAB,technical,39,2.2,1,0
+mechanical-engineer,Mechanical Engineer,Data acquisition,technical,39,1.9,0,0
+mechanical-engineer,Mechanical Engineer,Reading Comprehension,core,72,,0,0
+mechanical-engineer,Mechanical Engineer,Active Listening,core,72,,0,0
+mechanical-engineer,Mechanical Engineer,Critical Thinking,core,72,,0,0
+mechanical-engineer,Mechanical Engineer,Judgment and Decision Making,core,69,,0,0
+mechanical-engineer,Mechanical Engineer,Mathematics,core,69,,0,0
+mechanical-engineer,Mechanical Engineer,Science,core,69,,0,0
+mechanical-engineer,Mechanical Engineer,Complex Problem Solving,core,69,,0,0
+mechanical-engineer,Mechanical Engineer,Active Learning,core,62,,0,0
+mechanical-engineer,Mechanical Engineer,Design,knowledge,88,,0,0
+mechanical-engineer,Mechanical Engineer,Engineering and Technology,knowledge,86,,0,0
+mechanical-engineer,Mechanical Engineer,Production and Processing,knowledge,84,,0,0
+mechanical-engineer,Mechanical Engineer,Mechanical,knowledge,81,,0,0
+mechanical-engineer,Mechanical Engineer,English Language,knowledge,76,,0,0
+mechanical-engineer,Mechanical Engineer,Mathematics,knowledge,72,,0,0
+civil-engineer,Civil Engineer,AutoCAD,technical,100,42.7,1,1
+civil-engineer,Civil Engineer,Civil 3D,technical,80,24.3,1,1
+civil-engineer,Civil Engineer,Revit,technical,69,17.2,1,1
+civil-engineer,Civil Engineer,MS Office,technical,69,16.8,1,1
+civil-engineer,Civil Engineer,Excel,technical,67,15.9,1,1
+civil-engineer,Civil Engineer,MicroStation,technical,67,15.5,1,1
+civil-engineer,Civil Engineer,Outlook,technical,55,7.8,1,1
+civil-engineer,Civil Engineer,PowerPoint,technical,52,5.8,1,1
+civil-engineer,Civil Engineer,GIS,technical,43,5.2,0,0
+civil-engineer,Civil Engineer,MS Word,technical,42,4.5,1,0
+civil-engineer,Civil Engineer,Bridge design,technical,40,3.2,0,0
+civil-engineer,Civil Engineer,ArcGIS,technical,37,1.6,1,0
+civil-engineer,Civil Engineer,HEC-HMS,technical,37,1.6,0,0
+civil-engineer,Civil Engineer,Hydraulic analysis,technical,37,1.6,0,0
+civil-engineer,Civil Engineer,Active Listening,core,75,,0,0
+civil-engineer,Civil Engineer,Reading Comprehension,core,72,,0,0
+civil-engineer,Civil Engineer,Speaking,core,72,,0,0
+civil-engineer,Civil Engineer,Critical Thinking,core,72,,0,0
+civil-engineer,Civil Engineer,Mathematics,core,72,,0,0
+civil-engineer,Civil Engineer,Complex Problem Solving,core,72,,0,0
+civil-engineer,Civil Engineer,Science,core,69,,0,0
+civil-engineer,Civil Engineer,Systems Analysis,core,69,,0,0
+civil-engineer,Civil Engineer,Design,knowledge,92,,0,0
+civil-engineer,Civil Engineer,Engineering and Technology,knowledge,92,,0,0
+civil-engineer,Civil Engineer,Building and Construction,knowledge,88,,0,0
+civil-engineer,Civil Engineer,Mathematics,knowledge,87,,0,0
+civil-engineer,Civil Engineer,English Language,knowledge,75,,0,0
+civil-engineer,Civil Engineer,Physics,knowledge,68,,0,0
+electrical-engineer,Electrical Engineer,AutoCAD,technical,100,22.8,1,1
+electrical-engineer,Electrical Engineer,MS Office,technical,94,17.9,1,1
+electrical-engineer,Electrical Engineer,Revit,technical,83,14.0,1,1
+electrical-engineer,Electrical Engineer,Excel,technical,73,10.4,1,1
+electrical-engineer,Electrical Engineer,PLC,technical,63,9.9,0,0
+electrical-engineer,Electrical Engineer,ETAP,technical,59,5.6,0,1
+electrical-engineer,Electrical Engineer,C,technical,50,5.1,1,0
+electrical-engineer,Electrical Engineer,PowerPoint,technical,57,4.8,1,1
+electrical-engineer,Electrical Engineer,Python,technical,57,4.8,1,1
+electrical-engineer,Electrical Engineer,MicroStation,technical,49,4.8,1,0
+electrical-engineer,Electrical Engineer,C++,technical,56,4.4,1,1
+electrical-engineer,Electrical Engineer,SCADA,technical,48,4.4,0,0
+electrical-engineer,Electrical Engineer,MATLAB,technical,54,3.9,1,1
+electrical-engineer,Electrical Engineer,SolidWorks,technical,43,2.9,1,0
+electrical-engineer,Electrical Engineer,Writing,core,78,,0,0
+electrical-engineer,Electrical Engineer,Reading Comprehension,core,75,,0,0
+electrical-engineer,Electrical Engineer,Critical Thinking,core,75,,0,0
+electrical-engineer,Electrical Engineer,Active Listening,core,72,,0,0
+electrical-engineer,Electrical Engineer,Speaking,core,72,,0,0
+electrical-engineer,Electrical Engineer,Active Learning,core,72,,0,0
+electrical-engineer,Electrical Engineer,Complex Problem Solving,core,72,,0,0
+electrical-engineer,Electrical Engineer,Monitoring,core,62,,0,0
+electrical-engineer,Electrical Engineer,Engineering and Technology,knowledge,94,,0,0
+electrical-engineer,Electrical Engineer,Computers and Electronics,knowledge,92,,0,0
+electrical-engineer,Electrical Engineer,Design,knowledge,78,,0,0
+electrical-engineer,Electrical Engineer,English Language,knowledge,69,,0,0
+electrical-engineer,Electrical Engineer,Mathematics,knowledge,68,,0,0
+electrical-engineer,Electrical Engineer,Physics,knowledge,64,,0,0
+robotics-engineer,Robotics Engineer,PLC,technical,100,39.6,0,0
+robotics-engineer,Robotics Engineer,HMI,technical,75,24.6,0,0
+robotics-engineer,Robotics Engineer,Python,technical,76,19.8,1,1
+robotics-engineer,Robotics Engineer,AutoCAD,technical,64,12.6,1,1
+robotics-engineer,Robotics Engineer,SQL,technical,54,11.7,1,0
+robotics-engineer,Robotics Engineer,SCADA,technical,53,10.8,0,0
+robotics-engineer,Robotics Engineer,Excel,technical,51,9.6,1,0
+robotics-engineer,Robotics Engineer,MS Office,technical,50,9.3,1,0
+robotics-engineer,Robotics Engineer,Java,technical,58,9.0,1,1
+robotics-engineer,Robotics Engineer,Linux,technical,56,8.1,1,1
+robotics-engineer,Robotics Engineer,C++,technical,55,7.5,1,1
+robotics-engineer,Robotics Engineer,Ladder Logic,technical,46,6.9,0,0
+robotics-engineer,Robotics Engineer,AWS,technical,45,6.3,1,0
+robotics-engineer,Robotics Engineer,SolidWorks,technical,52,5.4,1,1
+robotics-engineer,Robotics Engineer,Critical Thinking,core,75,,0,0
+robotics-engineer,Robotics Engineer,Active Listening,core,72,,0,0
+robotics-engineer,Robotics Engineer,Reading Comprehension,core,72,,0,0
+robotics-engineer,Robotics Engineer,Judgment and Decision Making,core,72,,0,0
+robotics-engineer,Robotics Engineer,Monitoring,core,72,,0,0
+robotics-engineer,Robotics Engineer,Complex Problem Solving,core,72,,0,0
+robotics-engineer,Robotics Engineer,Systems Analysis,core,72,,0,0
+robotics-engineer,Robotics Engineer,Writing,core,69,,0,0
+robotics-engineer,Robotics Engineer,Engineering and Technology,knowledge,95,,0,0
+robotics-engineer,Robotics Engineer,Design,knowledge,91,,0,0
+robotics-engineer,Robotics Engineer,Computers and Electronics,knowledge,86,,0,0
+robotics-engineer,Robotics Engineer,Mechanical,knowledge,80,,0,0
+robotics-engineer,Robotics Engineer,Mathematics,knowledge,80,,0,0
+robotics-engineer,Robotics Engineer,English Language,knowledge,75,,0,0
