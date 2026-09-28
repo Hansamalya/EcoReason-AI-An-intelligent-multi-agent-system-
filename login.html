@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sign in — Waypoint</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📍</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="login">
+<main class="auth">
+  <section class="auth-photo">
+    <div class="photo" data-initial="W"><img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1400&q=75" alt="Students working together around a laptop" referrerpolicy="no-referrer"></div>
+    <blockquote>Most people are closer to their next role than they think. The gap is usually four or five skills.<cite>From our analysis of 123,849 job postings</cite></blockquote>
+  </section>
+
+  <section class="auth-form contours">
+    <div class="auth-card">
+      <a class="brand" href="index.html" style="margin-bottom:10px"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#1b2a41"/><path d="M16 7c-3.6 0-6.4 2.8-6.4 6.3 0 4.6 6.4 11.7 6.4 11.7s6.4-7.1 6.4-11.7C22.4 9.8 19.6 7 16 7z" fill="#f2a541"/><circle cx="16" cy="13.3" r="2.4" fill="#1b2a41"/></svg>Waypoint</a>
+      <h1 id="authTitle" style="font-size:2.4rem">Welcome back</h1>
+      <div class="tabs" role="tablist">
+        <button type="button" role="tab" data-mode="signin" aria-selected="true">Sign in</button>
+        <button type="button" role="tab" data-mode="signup" aria-selected="false">Create account</button>
+      </div>
+      <form id="authForm" class="stack" style="gap:14px" novalidate>
+        <div class="field" id="nameField" hidden><label for="name">Full name</label><input class="input" id="name" autocomplete="name" placeholder="Priya Raman"></div>
+        <div class="field"><label for="email">Email</label><input class="input" id="email" type="email" autocomplete="email" placeholder="you@example.com" required></div>
+        <div class="field"><label for="password">Password</label><input class="input" id="password" type="password" autocomplete="current-password" placeholder="At least 6 characters" required></div>
+        <p class="form-error" id="err" role="alert"></p>
+        <button class="btn" id="submitBtn" type="submit">Sign in</button>
+      </form>
+      <div class="divider">or</div>
+      <button class="btn btn-ghost" id="guestBtn" type="button">Continue as guest</button>
+      <p class="hint">Accounts and profiles are stored in this browser only. Connect <code>backend/app.py</code> to a database for multi-device accounts.</p>
+    </div>
+  </section>
+</main>
+<script src="js/app.js"></script>
+</body>
+</html>

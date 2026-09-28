@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dashboard — Waypoint</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📍</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js" defer></script>
+</head>
+<body data-page="dashboard">
+<div id="nav"></div>
+
+<main id="main">
+  <div class="wrap">
+    <div class="page-head">
+      <div><h1 id="greet" style="font-size:clamp(2rem,4vw,3.2rem)">Your career dashboard</h1>
+        <p class="muted">Everything here updates as you edit your profile. <span id="savedAt"></span></p></div>
+      <div style="display:flex;align-items:center;gap:14px">
+        <div class="ring" id="ring" role="img" aria-label="Profile completeness"><span>0%</span></div>
+        <div class="small muted">Profile<br>complete</div>
+      </div>
+    </div>
+
+    <div class="grid-dash">
+      <!-- ============ LEFT: profile + resume ============ -->
+      <div class="stack">
+        <form class="panel" id="profileForm" autocomplete="off">
+          <div class="panel-head"><h2 style="font-size:1.6rem">👤 Your profile</h2></div>
+          <div class="grid-2" style="gap:14px">
+            <div class="field"><label for="pName">Name</label><input class="input" id="pName" placeholder="Your name"></div>
+            <div class="field"><label for="pHeadline">Where you are now</label><input class="input" id="pHeadline" placeholder="Final-year B.Tech, IT"></div>
+            <div class="field"><label for="pEdu">Highest education</label><select class="input" id="pEdu"></select></div>
+            <div class="field"><label for="pYears">Years of work experience</label><input class="input" id="pYears" type="number" min="0" max="45"></div>
+          </div>
+
+          <h3 style="margin:28px 0 6px">What kind of work do you enjoy?</h3>
+          <p class="hint" style="margin-bottom:10px">0 = not for me, 5 = love it. These are the Holland (RIASEC) interest types O*NET uses for every occupation.</p>
+          <div id="sliders"></div>
+
+          <div class="panel-head" style="margin:28px 0 10px"><h3>Your skills <span class="muted" style="font-weight:400">(<span id="skillCount">0</span>)</span></h3></div>
+          <div class="chips" id="skillChips" style="margin-bottom:14px"></div>
+          <div class="autocomplete">
+            <label class="sr-only" for="skillInput">Add a skill</label>
+            <input class="input" id="skillInput" placeholder="Add a skill — try Python, Excel, AutoCAD, Critical Thinking" role="combobox" aria-controls="suggest" aria-expanded="false">
+            <div class="suggest" id="suggest" role="listbox" hidden></div>
+          </div>
+        </form>
+
+        <section class="panel">
+          <div class="panel-head"><h2 style="font-size:1.6rem">📄 Résumé upload</h2><span class="small muted">PDF, DOCX or TXT</span></div>
+          <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Upload résumé">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M12 16V4m0 0-4 4m4-4 4 4M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+            <p><strong>Drop your résumé here</strong> or click to choose a file</p>
+            <p class="hint">We scan it for tools, core skills, education and experience. The file never leaves your browser.</p>
+          </div>
+          <input type="file" id="resumeFile" accept=".pdf,.docx,.txt,.md" hidden>
+          <div id="resumeStatus"></div>
+        </section>
+      </div>
+
+      <!-- ============ RIGHT: matches ============ -->
+      <div class="stack">
+        <section class="panel">
+          <div class="panel-head"><h2 style="font-size:1.6rem">🎯 Top matches</h2><a class="small" href="recommendation.html">See all 32</a></div>
+          <div id="topMatches"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-head"><h3 id="radarTitle">Core skills</h3></div>
+          <div class="chart-box"><canvas id="ch-radar" aria-label="Radar chart of your core skills against your top career match"></canvas></div>
+        </section>
+      </div>
+    </div>
+
+    <!-- ============ Analytics ============ -->
+    <section style="margin:44px 0 60px">
+      <div class="page-head" style="padding-top:0"><div><h2>📊 Job market analytics</h2><p class="muted">From LinkedIn postings matched to the 32 careers.</p></div></div>
+      <div class="kpis" id="kpis" style="margin-bottom:20px"></div>
+      <div class="grid-2">
+        <div class="panel"><div class="panel-head"><h3>Most-requested tools</h3><span class="legend"><span class="l-have">You have it</span></span></div>
+          <div class="chart-box tall"><canvas id="ch-skills" aria-label="Bar chart of most requested tools"></canvas></div></div>
+        <div class="panel"><div class="panel-head"><h3>Salary range, your top 8</h3><span class="small muted">25th–75th percentile, USD</span></div>
+          <div class="chart-box tall"><canvas id="ch-salary" aria-label="Salary ranges of your top matches"></canvas></div></div>
+      </div>
+      <div class="panel" style="margin-top:20px"><div class="panel-head"><h3>Experience level employers ask for</h3></div>
+        <div class="chart-box" style="height:240px"><canvas id="ch-exp" aria-label="Experience level distribution"></canvas></div></div>
+    </section>
+  </div>
+</main>
+<script src="js/app.js" defer></script>
+</body>
+</html>

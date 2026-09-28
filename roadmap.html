@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Career roadmap — Waypoint</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📍</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="roadmap">
+<div id="nav"></div>
+<main id="main">
+  <div class="wrap">
+    <div class="page-head">
+      <div><h2>🗺️ Career roadmap</h2><p class="muted">Tick things off as you go. Skills you complete are added to your profile.</p></div>
+      <div class="field" style="min-width:280px"><label for="careerPick">Route to</label><select class="input" id="careerPick"></select></div>
+    </div>
+
+    <section class="road-hero" id="roadHero"><div class="loading">Loading…</div></section>
+
+    <div class="grid-dash" style="margin:10px 0 70px">
+      <div class="timeline" id="timeline"></div>
+      <aside class="stack" style="margin-top:36px">
+        <section class="panel"><h3 style="margin-bottom:10px">What you'll actually do</h3>
+          <p class="small muted" style="margin-bottom:10px">Core tasks, as reported by people in the role (O*NET).</p>
+          <ul id="tasks" style="padding-left:18px;margin:0;display:grid;gap:8px;color:var(--ink-2)"></ul></section>
+        <section class="panel"><h3 style="margin-bottom:12px">Where the jobs are</h3><div class="chips" id="where"></div></section>
+        <section class="panel"><h3 style="margin-bottom:12px">Related roles to keep in mind</h3><div class="chips" id="related"></div></section>
+      </aside>
+    </div>
+  </div>
+</main>
+<script src="js/app.js"></script>
+</body>
+</html>
