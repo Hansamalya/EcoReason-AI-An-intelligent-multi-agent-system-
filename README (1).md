@@ -294,7 +294,3 @@ Rejected or unparseable LLM output falls back to the deterministic template. `py
 3. Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. *Proc. 22nd ACM SIGKDD*, 785–794.
 4. Lundberg, S. M., et al. (2020). From local explanations to global understanding with explainable AI for trees. *Nature Machine Intelligence*, 2, 56–67.
 
-## 👥 Authors
-
-**Hansamalya B** (25MDT1050) · **Moniisha S** (25MDT1112)
-Guide: **Dr. Manivannan A**, Department of Mathematics, School of Advanced Sciences, VIT Chennai
